@@ -1,3 +1,3 @@
-# travel
-<h1>travel site</h2>
+# travel site
+HTML ,CSS ,JS를 배운 후 간단한 웹사이트 클론코딩
 
